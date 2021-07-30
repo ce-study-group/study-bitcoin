@@ -1,13 +1,18 @@
 # Study Bitcoin
 
   This repo is an archive of materials used to study Bitcoin and other cryptocurrencies' technology.
+  
 
-  Most university courses use [*Mastering Bitcoin: Unlocking Digital Cryptocurrencies*](https://github.com/aantonop/bitcoinbook) and [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) as references. We decided to choose the latter option.
+  We use [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) as our reference.
+  You can find course material (**Textbook, Lecture videos, and slides**) [here](https://piazza.com/princeton/spring2015/btctech/resources).
+
+
+  Most university courses use also [*Mastering Bitcoin: Unlocking Digital Cryptocurrencies*](https://github.com/aantonop/bitcoinbook) 
 
   ## Courses
 
-  The original course for the book is available in [Coursera](https://www.coursera.org/learn/cryptocurrency). Also, you can find course material (Textbook, Lecture videos, and slides) [here](https://piazza.com/princeton/spring2015/btctech/resources).
-
+  The original course for the book is available in [Coursera](https://www.coursera.org/learn/cryptocurrency).
+  
   Other courses that might be useful for their material:
 
   - [CS 5437: Principals and Practice of Cryptocurrencies Cornell](http://www.cs.cornell.edu/courses/cs5437/2016sp/)
@@ -25,17 +30,17 @@
   Following is the outline of **Bitcoin and Cryptocurrency Technologies**: 
 
   - Preface — The Long Road to Bitcoin  
-     1. - [ ] Traditional financial arrangements
-     2. - [ ] The trouble with credit cards online  
-     3. - [ ] From Credit to (Crypto) Cash  
-     4. - [ ] Minting Money out of Thin Air  
-     5. - [ ] Recording Everything in a Ledger  
+     1. - [x] Traditional financial arrangements
+     2. - [x] The trouble with credit cards online  
+     3. - [x] From Credit to (Crypto) Cash  
+     4. - [x] Minting Money out of Thin Air  
+     5. - [x] Recording Everything in a Ledger  
 
   1. Introduction to Cryptography & Cryptocurrencies
-     1. - [ ] Cryptographic Hash Functions
-     2. - [ ] Hash Pointers and Data Structures
-     3. - [ ] Digital Signatures
-     4. - [ ] Public Keys as Identities
+     1. - [x] Cryptographic Hash Functions
+     2. - [x] Hash Pointers and Data Structures
+     3. - [x] Digital Signatures
+     4. - [x] Public Keys as Identities
      5. - [ ] A Simple Cryptocurrency
 
   2. How Bitcoin Achieves Decentralization
